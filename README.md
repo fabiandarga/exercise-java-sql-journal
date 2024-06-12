@@ -13,7 +13,7 @@ Requirements
 ## Journal Terminal App:
 1. Use JDBC to connect to the PostgreSQL database.
 2. Implement a loop to handle user input with the following options:
-3. Add a new journal entry.
+3. Add a new journal entry: with title and content
 4. List all journal entries with ID, title, and character count of the content.
 5. Show details of a specific entry by ID.
 
@@ -24,5 +24,6 @@ Select Mode
 (1) Add Entry
 (2) Show List
 (3) Show Entry
+(0) Exit
 > 
 ```
